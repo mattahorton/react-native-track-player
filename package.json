@@ -70,7 +70,7 @@
     }
   },
   "devDependencies": {
-    "@types/react-native": "^0.60.0",
+    "@types/react-native": "^0.66.4",
     "@typescript-eslint/eslint-plugin": "^1.7.0",
     "@typescript-eslint/parser": "^1.7.0",
     "eslint": "^5.16.0",
@@ -79,6 +79,6 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "prettier": "^1.17.0",
     "rimraf": "^2.6.2",
-    "typescript": "^3.2.4"
+    "typescript": "^3.7"
   }
 }
