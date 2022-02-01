@@ -6,7 +6,8 @@
     "declaration": true,
     "outDir": "./lib",
     "strict": true,
-    "typeRoots": ["node_modules/@types"]
+    "typeRoots": ["node_modules/@types"],
+    "types": ["react-native"]
   },
   "include": ["src"],
   "exclude": ["node_modules", "**/__tests__/*"]
